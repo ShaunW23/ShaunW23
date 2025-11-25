@@ -1,5 +1,5 @@
 ## Hi there 👋
-Student of Solent University 
+Student at  Solent University 
 
 <!--
 **ShaunW23/ShaunW23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
